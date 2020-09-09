@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## MyLibrary
+## JDLiMyLibrary
 
 Copyright (c) 2020 lijin <18648250125@163.com>
 

@@ -1,31 +1,16 @@
 PODS:
-  - FBSnapshotTestCase (2.1.4):
-    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
-  - FBSnapshotTestCase/Core (2.1.4)
-  - FBSnapshotTestCase/SwiftSupport (2.1.4):
-    - FBSnapshotTestCase/Core
-  - Kiwi (3.0.0)
-  - MyLibrary (0.1.0)
+  - JDLiMyLibrary (0.1.2)
 
 DEPENDENCIES:
-  - FBSnapshotTestCase
-  - Kiwi
-  - MyLibrary (from `../`)
-
-SPEC REPOS:
-  trunk:
-    - FBSnapshotTestCase
-    - Kiwi
+  - JDLiMyLibrary (from `../`)
 
 EXTERNAL SOURCES:
-  MyLibrary:
+  JDLiMyLibrary:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
-  MyLibrary: 57734d68e51a7c6a229d05bf7852ceff82dddb79
+  JDLiMyLibrary: 843d4b753d441fe4ad2483a426bf7063d6498ac7
 
-PODFILE CHECKSUM: b90236f70436b16271a08e77676bde5d5e64da5d
+PODFILE CHECKSUM: d47caf480ee7a514f6c51f0d76eac497957868cc
 
 COCOAPODS: 1.8.3
