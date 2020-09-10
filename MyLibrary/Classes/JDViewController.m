@@ -15,17 +15,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    UIImageView *imageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"cashier_close_round_yellow"]];
+    [self.view addSubview:imageView];
+    imageView.center = self.view.center;
+    [self.view setBackgroundColor:[UIColor whiteColor]];
 }
-
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
 @end
