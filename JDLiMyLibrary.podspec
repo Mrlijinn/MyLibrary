@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JDLiMyLibrary'
-  s.version          = '0.1.8'
+  s.version          = '0.1.9'
   s.summary          = 'pay iOS For MyLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -32,9 +32,9 @@ description by ios team pay
 
   s.source_files = 'MyLibrary/Classes/**/*'
   
-  s.resource_bundles = {
-    'MyLibrary' => ['MyLibrary/Assets/**/*.png']
-  }
+#  s.resource_bundles = {
+#    'MyLibrary' => ['MyLibrary/Assets/**/*.png']
+#  }
    
 #  spec.resource_bundles = {
 #    'MyLibrary' => ['Resources/*.png'],
