@@ -7,22 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0131A822026EE6B0EC1891B106E27AEA /* JDCashier.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAC995CD6694DE63E11A5FF2D5DFD7EE /* JDCashier.xcassets */; };
+		0162D3D7F081F9103AC1C200049759D9 /* JDTestViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E8D9A56A1ABB09A76B62D666EF3734 /* JDTestViewViewController.m */; };
 		070E12CA0479F8077B346375A19F30C5 /* Pods-MyLibrary_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DF96EABD1B4A6110D5DD294F477F394 /* Pods-MyLibrary_Tests-dummy.m */; };
-		0D1D849B394BA8AADC7C6B2906A13071 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		1CF5FF276AD6C56F8AC94075F8981851 /* JDTestViewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E1E8D9A56A1ABB09A76B62D666EF3734 /* JDTestViewViewController.m */; };
-		261DDB1F409BB7F44C047A615F5A8A75 /* JDLiMyLibrary-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 51720D8EF7DE230F85CEC677AB3230D1 /* JDLiMyLibrary-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		32996F552C6C0DB830E9333EE530E887 /* JDViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CDE7452DA0E2F1A77EB3F0926F0919E /* JDViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		454DC061251D0D326C698ABAC1A28C0E /* JDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F32801E182FB96B477D036AD051DF98E /* JDViewController.m */; };
-		4636B1B41E997C2E8DE5ECC17B11E107 /* JDCashier.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAC995CD6694DE63E11A5FF2D5DFD7EE /* JDCashier.xcassets */; };
-		5332B6FFE31BB5910D1ECAB2FFF965F7 /* Pods-MyLibrary_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AB8DB961570F3183931D9A8912ADA53D /* Pods-MyLibrary_Example-dummy.m */; };
-		655D5BAB9780C68EB3FBE96871033929 /* JDLiMyLibrary-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 94DD08D04E4166A5A6D25DFE995BAC25 /* JDLiMyLibrary-dummy.m */; };
-		74CE3D6C2F51A897EFFD7D386B7F7EBE /* JDTestViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C34249EB2D27B6C23177A172A817712D /* JDTestViewViewController.xib */; };
+		0ACC07EE3B138DBBD3D8BEB014F44E56 /* JDViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 1CDE7452DA0E2F1A77EB3F0926F0919E /* JDViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		52AD60AFB60DE76B1848B9837965522A /* JDLiMyLibrary-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 51720D8EF7DE230F85CEC677AB3230D1 /* JDLiMyLibrary-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5332B6FFE31BB5910D1ECAB2FFF965F7 /* Pods-MyLibrary_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A3A9B6C2D6ACBF08B54C7CB798CB50B /* Pods-MyLibrary_Example-dummy.m */; };
+		600B035C204D15CF9122B039E4CACA97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		6E6F905257C58F334567112193B38511 /* JDLiMyLibrary-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 94DD08D04E4166A5A6D25DFE995BAC25 /* JDLiMyLibrary-dummy.m */; };
 		752FC02AE182033F270D56235040C0B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		8BEB626E3B32161D256E504A806B6A8D /* JDTestViewViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CECF90FDD8C44AB471692F780F797AB /* JDTestViewViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9838A4C7927F268A544D518C4D933E7D /* JDTestViewViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 8CECF90FDD8C44AB471692F780F797AB /* JDTestViewViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A86B76F25DCAC00133BD696D74759EE8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		C8E75DC2DABFBDAE246D2B05804E7737 /* MyLibrary.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 214CBC8A1C248CED2A9092E53CDF758E /* MyLibrary.bundle */; };
+		B6C7B8B9D0AF30493BBF0576AE46AE40 /* JDTestViewViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C34249EB2D27B6C23177A172A817712D /* JDTestViewViewController.xib */; };
+		C4B09D5743FEBDF274EA88D79293CBF1 /* JDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F32801E182FB96B477D036AD051DF98E /* JDViewController.m */; };
 		D9F28148507073AA9FD0099D4E688743 /* Pods-MyLibrary_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 77FC264D9D53B5DE7E2D0437F6530FA9 /* Pods-MyLibrary_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F6F6EA93B97FF1F666653A5F2FD70DBF /* Pods-MyLibrary_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EB8EFD6C81FE5F1AA40303F48060661E /* Pods-MyLibrary_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6F6EA93B97FF1F666653A5F2FD70DBF /* Pods-MyLibrary_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C00D14F98BAF80448FFB528CE55083B5 /* Pods-MyLibrary_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,7 +32,7 @@
 			remoteGlobalIDString = 35C107FBC8268DDD79E6F2CF02D64541;
 			remoteInfo = "Pods-MyLibrary_Example";
 		};
-		D500E36D1DAA565C9AB0C1615457ACC8 /* PBXContainerItemProxy */ = {
+		C0C8B160CF4C5825E0D267F7E4735B28 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -50,60 +49,60 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		011EEA39B1C232885AC59326409D4BB1 /* Pods-MyLibrary_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLibrary_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		054AEB87ECBA157BAE83B276652A6726 /* ResourceBundle-MyLibrary-JDLiMyLibrary-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-MyLibrary-JDLiMyLibrary-Info.plist"; sourceTree = "<group>"; };
 		0DF96EABD1B4A6110D5DD294F477F394 /* Pods-MyLibrary_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyLibrary_Tests-dummy.m"; sourceTree = "<group>"; };
 		1408DC94FBE042BB4527399503553D64 /* Pods-MyLibrary_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyLibrary_Tests.modulemap"; sourceTree = "<group>"; };
 		1CDE7452DA0E2F1A77EB3F0926F0919E /* JDViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JDViewController.h; path = MyLibrary/Classes/JDViewController.h; sourceTree = "<group>"; };
-		1F9A5082A7F882FF0B350FF3DE554D16 /* Pods-MyLibrary_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyLibrary_Example-frameworks.sh"; sourceTree = "<group>"; };
 		214CBC8A1C248CED2A9092E53CDF758E /* MyLibrary.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = MyLibrary.bundle; path = "JDLiMyLibrary-MyLibrary.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B7C92085423DD28C30B5E279D7CDA45 /* JDLiMyLibrary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = JDLiMyLibrary.framework; path = JDLiMyLibrary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E568AB6E6B11EED5DA3D8687477830F /* Pods-MyLibrary_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyLibrary_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		32B58268D3C03E7A333260004C05F258 /* Pods-MyLibrary_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyLibrary_Example.modulemap"; sourceTree = "<group>"; };
-		3B8C3BEC79960B58D30CDEA847A3658F /* Pods-MyLibrary_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyLibrary_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		3D0092E31D72D767DB44D33C5032AAA0 /* Pods-MyLibrary_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLibrary_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		3FA4D5A9508D2329BA2B6DAC7C536140 /* Pods_MyLibrary_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MyLibrary_Example.framework; path = "Pods-MyLibrary_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		44969F1C2C91426A39FBC7C0D6C63BFF /* Pods-MyLibrary_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLibrary_Example.release.xcconfig"; sourceTree = "<group>"; };
 		452DD2E7781A3503913DD806CF3F7ED7 /* Pods-MyLibrary_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLibrary_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		484A33BDF6D7022B3E2700CB64E2DA8D /* JDLiMyLibrary.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = JDLiMyLibrary.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		51720D8EF7DE230F85CEC677AB3230D1 /* JDLiMyLibrary-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JDLiMyLibrary-umbrella.h"; sourceTree = "<group>"; };
-		582D44F470437C06DBFFCDD37D1FACAE /* Pods-MyLibrary_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary_Example-Info.plist"; sourceTree = "<group>"; };
+		5B51011316899016A0502E86F6356E65 /* Pods-MyLibrary_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MyLibrary_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5F6A281A62C066591B2E13AD4DAFD637 /* JDLiMyLibrary.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = JDLiMyLibrary.modulemap; sourceTree = "<group>"; };
+		6A3A9B6C2D6ACBF08B54C7CB798CB50B /* Pods-MyLibrary_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyLibrary_Example-dummy.m"; sourceTree = "<group>"; };
 		6CB2E4D2DDB6AE53B7544F742B9C6BF9 /* JDLiMyLibrary-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "JDLiMyLibrary-Info.plist"; sourceTree = "<group>"; };
+		7389BFB4BCDBCFE8764B412D5DFEB7F5 /* Pods-MyLibrary_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MyLibrary_Example-resources.sh"; sourceTree = "<group>"; };
 		77FC264D9D53B5DE7E2D0437F6530FA9 /* Pods-MyLibrary_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyLibrary_Tests-umbrella.h"; sourceTree = "<group>"; };
-		891DD071930950070118AC39390A0D14 /* Pods-MyLibrary_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		7ED181C0D03B7CDB67A20CD2A70E763A /* Pods-MyLibrary_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLibrary_Example.release.xcconfig"; sourceTree = "<group>"; };
+		8589AFB2D2E8A2A1B9F1B8764B604B40 /* Pods-MyLibrary_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary_Example-Info.plist"; sourceTree = "<group>"; };
 		8CECF90FDD8C44AB471692F780F797AB /* JDTestViewViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = JDTestViewViewController.h; path = MyLibrary/Classes/JDTestViewViewController.h; sourceTree = "<group>"; };
 		94DD08D04E4166A5A6D25DFE995BAC25 /* JDLiMyLibrary-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JDLiMyLibrary-dummy.m"; sourceTree = "<group>"; };
 		9C49663EBAC330E325A07D35EC8CE184 /* Pods-MyLibrary_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AB8DB961570F3183931D9A8912ADA53D /* Pods-MyLibrary_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MyLibrary_Example-dummy.m"; sourceTree = "<group>"; };
+		A8FB1E86E20C668AC5C4DF25C8626DC8 /* Pods-MyLibrary_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MyLibrary_Example.modulemap"; sourceTree = "<group>"; };
 		B12AB84A38701A329D8418C3DDB61AFD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		B423812BB7D4156EDE0066BFD1A94F82 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		B8A9BFE3A52F7C7D1030AEF5BFD0F65B /* Pods-MyLibrary_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MyLibrary_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		C00D14F98BAF80448FFB528CE55083B5 /* Pods-MyLibrary_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyLibrary_Example-umbrella.h"; sourceTree = "<group>"; };
 		C34249EB2D27B6C23177A172A817712D /* JDTestViewViewController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; name = JDTestViewViewController.xib; path = MyLibrary/Assets/JDTestViewViewController.xib; sourceTree = "<group>"; };
 		DF4B281CEA677E982AC4CDB35EA1769E /* JDLiMyLibrary-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JDLiMyLibrary-prefix.pch"; sourceTree = "<group>"; };
 		E1E8D9A56A1ABB09A76B62D666EF3734 /* JDTestViewViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JDTestViewViewController.m; path = MyLibrary/Classes/JDTestViewViewController.m; sourceTree = "<group>"; };
-		EB8EFD6C81FE5F1AA40303F48060661E /* Pods-MyLibrary_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MyLibrary_Example-umbrella.h"; sourceTree = "<group>"; };
 		EE77395385DAE524A6A20939A6899521 /* Pods_MyLibrary_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MyLibrary_Tests.framework; path = "Pods-MyLibrary_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFB636A0486301799D863B494F13269A /* Pods-MyLibrary_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary_Tests-Info.plist"; sourceTree = "<group>"; };
 		F32801E182FB96B477D036AD051DF98E /* JDViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = JDViewController.m; path = MyLibrary/Classes/JDViewController.m; sourceTree = "<group>"; };
 		FAC995CD6694DE63E11A5FF2D5DFD7EE /* JDCashier.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = JDCashier.xcassets; path = MyLibrary/Assets/JDCashier.xcassets; sourceTree = "<group>"; };
+		FE11BEFC84AF7AFF47D0BB26368081CF /* Pods-MyLibrary_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MyLibrary_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = JDLiMyLibrary.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5316B0FF74AB85FF9F965F089B5CBB47 /* Frameworks */ = {
+		7425F45D61D3299AE05D4EF9AF963BCC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				600B035C204D15CF9122B039E4CACA97 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5D25391DB0EA1ED0A8007C236C322986 /* Frameworks */ = {
+		9B8A52FE5D451C68EAFB8E1DBAD8E86A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D1D849B394BA8AADC7C6B2906A13071 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -163,10 +162,27 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		58992FF067B03511D31CE4D6530AE5CE /* Pods-MyLibrary_Example */ = {
+			isa = PBXGroup;
+			children = (
+				A8FB1E86E20C668AC5C4DF25C8626DC8 /* Pods-MyLibrary_Example.modulemap */,
+				5B51011316899016A0502E86F6356E65 /* Pods-MyLibrary_Example-acknowledgements.markdown */,
+				FE11BEFC84AF7AFF47D0BB26368081CF /* Pods-MyLibrary_Example-acknowledgements.plist */,
+				6A3A9B6C2D6ACBF08B54C7CB798CB50B /* Pods-MyLibrary_Example-dummy.m */,
+				8589AFB2D2E8A2A1B9F1B8764B604B40 /* Pods-MyLibrary_Example-Info.plist */,
+				7389BFB4BCDBCFE8764B412D5DFEB7F5 /* Pods-MyLibrary_Example-resources.sh */,
+				C00D14F98BAF80448FFB528CE55083B5 /* Pods-MyLibrary_Example-umbrella.h */,
+				011EEA39B1C232885AC59326409D4BB1 /* Pods-MyLibrary_Example.debug.xcconfig */,
+				7ED181C0D03B7CDB67A20CD2A70E763A /* Pods-MyLibrary_Example.release.xcconfig */,
+			);
+			name = "Pods-MyLibrary_Example";
+			path = "Target Support Files/Pods-MyLibrary_Example";
+			sourceTree = "<group>";
+		};
 		7EBD1E870C6B363A0BB61D9321520F54 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				B9728E95850C992852768869F8839D87 /* Pods-MyLibrary_Example */,
+				58992FF067B03511D31CE4D6530AE5CE /* Pods-MyLibrary_Example */,
 				267E4550A55F5BCD1D6EA4FEC91F3482 /* Pods-MyLibrary_Tests */,
 			);
 			name = "Targets Support Files";
@@ -210,23 +226,6 @@
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		B9728E95850C992852768869F8839D87 /* Pods-MyLibrary_Example */ = {
-			isa = PBXGroup;
-			children = (
-				32B58268D3C03E7A333260004C05F258 /* Pods-MyLibrary_Example.modulemap */,
-				3B8C3BEC79960B58D30CDEA847A3658F /* Pods-MyLibrary_Example-acknowledgements.markdown */,
-				891DD071930950070118AC39390A0D14 /* Pods-MyLibrary_Example-acknowledgements.plist */,
-				AB8DB961570F3183931D9A8912ADA53D /* Pods-MyLibrary_Example-dummy.m */,
-				1F9A5082A7F882FF0B350FF3DE554D16 /* Pods-MyLibrary_Example-frameworks.sh */,
-				582D44F470437C06DBFFCDD37D1FACAE /* Pods-MyLibrary_Example-Info.plist */,
-				EB8EFD6C81FE5F1AA40303F48060661E /* Pods-MyLibrary_Example-umbrella.h */,
-				3D0092E31D72D767DB44D33C5032AAA0 /* Pods-MyLibrary_Example.debug.xcconfig */,
-				44969F1C2C91426A39FBC7C0D6C63BFF /* Pods-MyLibrary_Example.release.xcconfig */,
-			);
-			name = "Pods-MyLibrary_Example";
-			path = "Target Support Files/Pods-MyLibrary_Example";
-			sourceTree = "<group>";
-		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -266,21 +265,21 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		014B77B40CF7948DCDBA0FEAF779190D /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				261DDB1F409BB7F44C047A615F5A8A75 /* JDLiMyLibrary-umbrella.h in Headers */,
-				8BEB626E3B32161D256E504A806B6A8D /* JDTestViewViewController.h in Headers */,
-				32996F552C6C0DB830E9333EE530E887 /* JDViewController.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6FEC8607FE5BA27D674C044B3918C6EC /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				F6F6EA93B97FF1F666653A5F2FD70DBF /* Pods-MyLibrary_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B0F4FEA9036FB16399E84FFD4DF1E904 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52AD60AFB60DE76B1848B9837965522A /* JDLiMyLibrary-umbrella.h in Headers */,
+				9838A4C7927F268A544D518C4D933E7D /* JDTestViewViewController.h in Headers */,
+				0ACC07EE3B138DBBD3D8BEB014F44E56 /* JDViewController.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,17 +315,17 @@
 		};
 		366C9CA615A128B375FE766B2AF8F5FE /* JDLiMyLibrary */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 87E9948C99F3DBE482210550008B265A /* Build configuration list for PBXNativeTarget "JDLiMyLibrary" */;
+			buildConfigurationList = DEF3546D75302F6E4D800D009829EEEB /* Build configuration list for PBXNativeTarget "JDLiMyLibrary" */;
 			buildPhases = (
-				014B77B40CF7948DCDBA0FEAF779190D /* Headers */,
-				59E8C6818BD879E93DB15BE7EB193369 /* Sources */,
-				5D25391DB0EA1ED0A8007C236C322986 /* Frameworks */,
-				E68F9E476AA95EC44E9341F313F0835D /* Resources */,
+				B0F4FEA9036FB16399E84FFD4DF1E904 /* Headers */,
+				9E4F150DC4E3E4A74CAC8410CBA273FD /* Sources */,
+				7425F45D61D3299AE05D4EF9AF963BCC /* Frameworks */,
+				5E875A13BF22D1FD658546B72DBFCAA2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				35F57DC3F5F2247CBA28905111ABB08C /* PBXTargetDependency */,
+				926099CFB1DCB4EB39A294AE4352E828 /* PBXTargetDependency */,
 			);
 			name = JDLiMyLibrary;
 			productName = JDLiMyLibrary;
@@ -335,11 +334,11 @@
 		};
 		796C30622C35216E303CD0E5CB131E43 /* JDLiMyLibrary-MyLibrary */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B51CA069ED8D399BCBE1073DE3187693 /* Build configuration list for PBXNativeTarget "JDLiMyLibrary-MyLibrary" */;
+			buildConfigurationList = 417439920233CFAF092E44370A5867A2 /* Build configuration list for PBXNativeTarget "JDLiMyLibrary-MyLibrary" */;
 			buildPhases = (
-				D5EED09F7060E8CD4C928EBF356434A1 /* Sources */,
-				5316B0FF74AB85FF9F965F089B5CBB47 /* Frameworks */,
-				28F503CB227981B938884E5BB86DB327 /* Resources */,
+				B83FC8429A2F23558E54C85B513F2341 /* Sources */,
+				9B8A52FE5D451C68EAFB8E1DBAD8E86A /* Frameworks */,
+				B030303C7488A254DC3A2AEFCE52DE19 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -414,20 +413,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		28F503CB227981B938884E5BB86DB327 /* Resources */ = {
+		5E875A13BF22D1FD658546B72DBFCAA2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4636B1B41E997C2E8DE5ECC17B11E107 /* JDCashier.xcassets in Resources */,
-				74CE3D6C2F51A897EFFD7D386B7F7EBE /* JDTestViewViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E68F9E476AA95EC44E9341F313F0835D /* Resources */ = {
+		B030303C7488A254DC3A2AEFCE52DE19 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C8E75DC2DABFBDAE246D2B05804E7737 /* MyLibrary.bundle in Resources */,
+				0131A822026EE6B0EC1891B106E27AEA /* JDCashier.xcassets in Resources */,
+				B6C7B8B9D0AF30493BBF0576AE46AE40 /* JDTestViewViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,16 +440,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		59E8C6818BD879E93DB15BE7EB193369 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				655D5BAB9780C68EB3FBE96871033929 /* JDLiMyLibrary-dummy.m in Sources */,
-				1CF5FF276AD6C56F8AC94075F8981851 /* JDTestViewViewController.m in Sources */,
-				454DC061251D0D326C698ABAC1A28C0E /* JDViewController.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		6F1FB0125C78BB736A549E6120A12B10 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -460,7 +448,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D5EED09F7060E8CD4C928EBF356434A1 /* Sources */ = {
+		9E4F150DC4E3E4A74CAC8410CBA273FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E6F905257C58F334567112193B38511 /* JDLiMyLibrary-dummy.m in Sources */,
+				0162D3D7F081F9103AC1C200049759D9 /* JDTestViewViewController.m in Sources */,
+				C4B09D5743FEBDF274EA88D79293CBF1 /* JDViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B83FC8429A2F23558E54C85B513F2341 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -482,16 +480,16 @@
 			target = 35C107FBC8268DDD79E6F2CF02D64541 /* Pods-MyLibrary_Example */;
 			targetProxy = 711FDF7DF07F97BB058DD89BD52570AB /* PBXContainerItemProxy */;
 		};
-		35F57DC3F5F2247CBA28905111ABB08C /* PBXTargetDependency */ = {
+		926099CFB1DCB4EB39A294AE4352E828 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "JDLiMyLibrary-MyLibrary";
 			target = 796C30622C35216E303CD0E5CB131E43 /* JDLiMyLibrary-MyLibrary */;
-			targetProxy = D500E36D1DAA565C9AB0C1615457ACC8 /* PBXContainerItemProxy */;
+			targetProxy = C0C8B160CF4C5825E0D267F7E4735B28 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		33BD292907C6029EE43F4990C860F920 /* Debug */ = {
+		291146B6F9AF12B33C9B9FA4F75DCE6E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */;
 			buildSettings = {
@@ -506,7 +504,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Debug;
+			name = Release;
 		};
 		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -568,69 +566,6 @@
 			};
 			name = Release;
 		};
-		4E7C2648D2F995F2B0A0C1C7860500B5 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary.modulemap";
-				PRODUCT_MODULE_NAME = JDLiMyLibrary;
-				PRODUCT_NAME = JDLiMyLibrary;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		518BC874AC7E10441B9AD3AFBE0600AD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary.modulemap";
-				PRODUCT_MODULE_NAME = JDLiMyLibrary;
-				PRODUCT_NAME = JDLiMyLibrary;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		599D1603A45844AE6DC57106495D424A /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B8A9BFE3A52F7C7D1030AEF5BFD0F65B /* Pods-MyLibrary_Tests.release.xcconfig */;
@@ -665,9 +600,41 @@
 			};
 			name = Release;
 		};
+		5A188B4BDCE589DF8CF298A21D45AF26 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary.modulemap";
+				PRODUCT_MODULE_NAME = JDLiMyLibrary;
+				PRODUCT_NAME = JDLiMyLibrary;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		739992EDC0B9DA862DEB7F5E61CA3839 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3D0092E31D72D767DB44D33C5032AAA0 /* Pods-MyLibrary_Example.debug.xcconfig */;
+			baseConfigurationReference = 011EEA39B1C232885AC59326409D4BB1 /* Pods-MyLibrary_Example.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -762,9 +729,26 @@
 			};
 			name = Debug;
 		};
+		8BDD5C1419BE2B01AA5FD39AA2356908 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/JDLiMyLibrary";
+				IBSC_MODULE = JDLiMyLibrary;
+				INFOPLIST_FILE = "Target Support Files/JDLiMyLibrary/ResourceBundle-MyLibrary-JDLiMyLibrary-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = MyLibrary;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
 		949F269B691BA9FDD9CA1423E3878440 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 44969F1C2C91426A39FBC7C0D6C63BFF /* Pods-MyLibrary_Example.release.xcconfig */;
+			baseConfigurationReference = 7ED181C0D03B7CDB67A20CD2A70E763A /* Pods-MyLibrary_Example.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -796,20 +780,36 @@
 			};
 			name = Release;
 		};
-		E1C5C7C7F16DABD4EA559B5731B7AC56 /* Release */ = {
+		A507971F8B4BFD9B9C4BFC1E5065470C /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FE7C1FB3F012EF767BB2C095420EBA0A /* JDLiMyLibrary.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/JDLiMyLibrary";
-				IBSC_MODULE = JDLiMyLibrary;
-				INFOPLIST_FILE = "Target Support Files/JDLiMyLibrary/ResourceBundle-MyLibrary-JDLiMyLibrary-Info.plist";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = MyLibrary;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/JDLiMyLibrary/JDLiMyLibrary.modulemap";
+				PRODUCT_MODULE_NAME = JDLiMyLibrary;
+				PRODUCT_NAME = JDLiMyLibrary;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
@@ -858,6 +858,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		417439920233CFAF092E44370A5867A2 /* Build configuration list for PBXNativeTarget "JDLiMyLibrary-MyLibrary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8BDD5C1419BE2B01AA5FD39AA2356908 /* Debug */,
+				291146B6F9AF12B33C9B9FA4F75DCE6E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -867,20 +876,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		87E9948C99F3DBE482210550008B265A /* Build configuration list for PBXNativeTarget "JDLiMyLibrary" */ = {
+		DEF3546D75302F6E4D800D009829EEEB /* Build configuration list for PBXNativeTarget "JDLiMyLibrary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				518BC874AC7E10441B9AD3AFBE0600AD /* Debug */,
-				4E7C2648D2F995F2B0A0C1C7860500B5 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		B51CA069ED8D399BCBE1073DE3187693 /* Build configuration list for PBXNativeTarget "JDLiMyLibrary-MyLibrary" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				33BD292907C6029EE43F4990C860F920 /* Debug */,
-				E1C5C7C7F16DABD4EA559B5731B7AC56 /* Release */,
+				5A188B4BDCE589DF8CF298A21D45AF26 /* Debug */,
+				A507971F8B4BFD9B9C4BFC1E5065470C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

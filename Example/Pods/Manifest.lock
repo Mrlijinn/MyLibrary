@@ -1,5 +1,5 @@
 PODS:
-  - JDLiMyLibrary (0.1.9)
+  - JDLiMyLibrary (0.1.11)
 
 DEPENDENCIES:
   - JDLiMyLibrary (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  JDLiMyLibrary: 4f77143db3620cb2b9de73581a3f09b5aad65556
+  JDLiMyLibrary: 679f34636969f0d4e76fdb923e29fa80c0451667
 
 PODFILE CHECKSUM: d47caf480ee7a514f6c51f0d76eac497957868cc
 
