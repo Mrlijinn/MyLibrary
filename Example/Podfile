@@ -1,7 +1,7 @@
 use_frameworks!
 
 platform :ios, '8.0'
-
+install! 'cocoapods', disable_input_output_paths: true
 target 'MyLibrary_Example' do
   pod 'JDLiMyLibrary', :path => '../'
 

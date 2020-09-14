@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JDLiMyLibrary'
-  s.version          = '0.1.11'
+  s.version          = '0.1.12'
   s.summary          = 'pay iOS For MyLibrary.'
 
 # This description is used to generate tags and improve search results.
@@ -30,14 +30,11 @@ description by ios team pay
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'MyLibrary/Classes/**/*'
+  s.source_files = 'JDLiMyLibrary/Classes/**/*'
   
   s.resource_bundles = {
-    'MyLibrary' => ['MyLibrary/Assets/*'],
+    'JDLiMyLibrary' => ['JDLiMyLibrary/Assets/**/*.{png,xib,xcassets}'],
   }
-  
-  #指定Pod为静态库模式
-  s.static_framework      = true
    
 #  spec.resource_bundles = {
 #    'MyLibrary' => ['Resources/*.png'],
