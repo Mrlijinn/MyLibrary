@@ -1,6 +1,6 @@
 {
   "name": "JDLiMyLibrary",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "pay iOS For MyLibrary.",
   "description": "description by ios team pay",
   "homepage": "https://github.com/Mrlijinn/MyLibrary",
@@ -13,11 +13,15 @@
   },
   "source": {
     "git": "https://github.com/Mrlijinn/MyLibrary.git",
-    "tag": "0.1.8"
+    "tag": "0.1.9"
   },
   "platforms": {
     "ios": "8.0"
   },
   "source_files": "MyLibrary/Classes/**/*",
-  "resources": "MyLibrary/Assets/*"
+  "resource_bundles": {
+    "MyLibrary": [
+      "MyLibrary/Assets/*"
+    ]
+  }
 }
